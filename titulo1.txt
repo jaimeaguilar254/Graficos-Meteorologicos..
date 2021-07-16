@@ -1,0 +1,31 @@
+Name	Code	Altitude	Climate region
+Lugano	LUG	273 m a. sea level	Alpine south side
+Basel / Binningen	BAS	316 m a. sea level	Eastern Jura
+Locarno / Monti	OTL	367 m a. sea level	Alpine south side
+Genève / Cointrin	GVE	411 m a. sea level	Western plateau
+Altdorf	ALT	438 m a. sea level	Central Alpine north slope
+Luzern	LUZ	454 m a. sea level	Central plateau
+Sion	SIO	482 m a. sea level	Valais
+Neuchâtel	NEU	485 m a. sea level	Western plateau
+Payerne	PAY	490 m a. sea level	Western plateau
+Bad Ragaz	RAG	496 m a. sea level	Northern and central Grisons
+Bern / Zollikofen	BER	553 m a. sea level	Central plateau
+Zürich / Fluntern	SMA	556 m a. sea level	North-eastern plateau
+Sargans	SAR	585 m a. sea level	Northern and central Grisons
+Meiringen	MER	589 m a. sea level	Western Alpine north slope
+St. Gallen	STG	776 m a. sea level	North-eastern plateau
+Elm	ELM	958 m a. sea level	Eastern Alpine north slope
+La Chaux-de-Fonds	CDF	1017 m a. sea level	Western Jura
+Château-d'Oex	CHD	1028 m a. sea level	Western Alpine north slope
+Engelberg	ENG	1036 m a. sea level	Central Alpine north slope
+Chaumont	CHM	1136 m a. sea level	Western Jura
+Andermatt	ANT	1438 m a. sea level	Central Alpine north slope
+Davos	DAV	1594 m a. sea level	Northern and central Grisons
+Grächen	GRC	1605 m a. sea level	Valais
+S. Bernardino	SBE	1639 m a. sea level	Alpine south side
+Samedan	SAM	1709 m a. sea level	Engadine
+Segl-Maria	SIA	1804 m a. sea level	Engadine
+Grimsel Hospiz	GRH	1980 m a. sea level	Western Alpine north slope
+Col du Grand St-Bernard	GSB	2472 m a. sea level	Alpine south side
+Säntis	SAE	2501 m a. sea level	Eastern Alpine north slope
+Jungfraujoch	JUN	3571 m a. sea level	Western Alpine north slope
