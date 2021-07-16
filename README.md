@@ -1,2 +1,0 @@
-# Graficos-Meteorologicos..
-practica mathplolyb
